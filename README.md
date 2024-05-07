@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Raphael Pinheiro 😁
+### Hi! I`m Raphael Pinheiro 😁
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-pinheiro-a26733179/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raphaelpinheiro_/)
@@ -8,7 +8,7 @@
 
 ## 📌 Stacks
 
-## Linguagens de programação, frameworks e relacionados
+## Programming languages, frameworks and related
 
 <div style="display: inline_block"><br/>
     <img aling="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -18,16 +18,16 @@
     <img aling="center" alt="CSS3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-## Ferramentas
+## Tools
  
 <div style="display: inline_block"><br/>
     <img aling= "center" atl="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
-## Banco de Dados
+## Database
 
 <div style="display: inline_block"><br/>
     <img aling= "center" atl="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 </div><br/>
 
-Sou um estudante de desenvolvimento web entusiasmado em enfrentar novos desafios e crescer no mundo da tecnologia!
+#### I'm a web development student at [Rocketseat](https://rocketseat.com.br/) excited about facing new challenges and growing in the world of technology!
