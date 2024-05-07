@@ -22,6 +22,7 @@
  
 <div style="display: inline_block"><br/>
     <img aling= "center" atl="Visual Studio Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+    <img aling= "center" atl="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
 ## Database
